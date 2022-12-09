@@ -1,0 +1,15 @@
+hi bhai
+    bhai ye hai t1 = 0;
+    bhai ye hai t2 = 1;
+    bhai ye hai nextdigit = t1 + t2;
+    bol bhai t1;
+    bol bhai t2;
+    bhai ye hai i = 3;
+    jab tak bhai (i < 11) {
+        bol bhai nextdigit;
+        t1 = t2;
+        t2 = nextdigit;
+        nextdigit = t1 + t2;
+        i +=1;
+    }
+bye bhai
